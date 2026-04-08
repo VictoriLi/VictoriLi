@@ -4,7 +4,6 @@ I'm Yunhui Li, a CMU graduate student learning Infomation System Management.
 
 I graduated from University of Rochester with Computer Science B.S. degree.
 
-I will gradually upload some good & fun projects here!
 <!--
 **VictoriLi/VictoriLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
